@@ -1,0 +1,52 @@
+/*
+* {
+    border: 1px solid red;
+}
+*/
+
+html {
+    font-size: 10px;
+}
+
+.title {
+    background-color: #fff;
+    font-size: 2rem;
+}
+
+.subtitle {
+    background-color: #fff;
+    font-size: 1.5rem;
+}
+
+.content {
+    font-size: 2.4rem;
+}
+
+.content {
+    background-color: #478aba;
+
+
+    border-color: black;
+    border-width: 1rem;
+    border-style: dashed;
+}
+
+.content:hover {
+    border-style: solid;
+}
+
+
+    p {
+        font-size: 1.6rem;
+        padding: 2rem 6rem;
+
+    }
+
+    .destacado {
+
+    }
+
+        .dolors {
+            font-size: 30px;
+            
+        }
