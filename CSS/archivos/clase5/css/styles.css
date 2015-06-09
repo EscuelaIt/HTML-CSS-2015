@@ -1,0 +1,28 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+
+body,
+p {
+  margin: 0;
+}
+
+
+
+.box {
+
+  background-color: #ff00e2;
+
+/*  margin: 20%;*/
+  padding: 15px 20px;
+
+  border: 20px solid #056a05;
+
+  width: 260px; /* 300px - 20px - 20px */
+  height: 160px;
+  overflow: auto;
+
+}

@@ -30,3 +30,11 @@ Recursos del módule de CSS
 ###Selectores
 * [W3C](http://www.w3.org/TR/CSS2/selector.html)
 * [30 Selectores que deberías memorizar](https://gist.github.com/nucliweb/855f642c3fb7c31b61a9)
+
+
+###Modelo de Caja
+* [W3C](http://www.w3.org/TR/CSS2/box.html)
+* [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/box_model)
+* [Webplatform](https://docs.webplatform.org/wiki/tutorials/box_model)
+* [Box Sizing W3C](http://www.w3.org/TR/2015/WD-css3-ui-20150519/#propdef-box-sizing)
+* [Box Sizing CSS Tricks](https://css-tricks.com/box-sizing/)
