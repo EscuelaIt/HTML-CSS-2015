@@ -38,3 +38,4 @@ Recursos del módule de CSS
 * [Webplatform](https://docs.webplatform.org/wiki/tutorials/box_model)
 * [Box Sizing W3C](http://www.w3.org/TR/2015/WD-css3-ui-20150519/#propdef-box-sizing)
 * [Box Sizing CSS Tricks](https://css-tricks.com/box-sizing/)
+* [Diferencia entre contet-box y border-box](http://codepen.io/carolineartz/full/ogVXZj)
