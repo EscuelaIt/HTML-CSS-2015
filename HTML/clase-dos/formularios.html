@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Formularios</title>
+    <style>
+    #apellidos{
+        color: red;
+    } 
+    </style>
+</head>
+<body>
+    <form action="mailto:malvarez@escuela.it" method="post" enctype="text/plain" autocomplete="off">
+        <fieldset>
+            <legend>Datos de contacto</legend>
+            <p><label for="nombre">Nombre:</label> <input type="text" name="nombre" placeholder="escribe tu nombre" maxlength="5"></p>
+            <p>Apellidos: <input type="text" name="apellidos" id="apellidos" readonly size="50"></p>
+            <p><span>Clave:</span> <input type="password" name="clave"></p>
+        </fieldset>
+        <section>
+            <h2>Dirección</h2>
+            <p><b>Dirección:</b> <input type="hidden" name="direccion" value="esto es la dirección"></p>        
+            <p>CP: <input type="text" name="cp" value="123" placeholder="xxxxx" disabled></p>
+            <p><input type="button" value="lalala"></p>
+            <button>poner un <br>texto mayor<img src="logo-escuela-it.png"></button>
+        </section>
+        <section>
+            <p>URL: <input type="text" value="http://"></p>
+            <p><input type="checkbox" name="recibir_boletin" value="si" /> Recibir nuestro boletín</p>
+            <p>
+                <input type="radio" name="conocido" value="internet"> Internet
+                <br>
+                <input type="radio" name="conocido" value="tv"> TV
+                <br>
+                <input type="radio" name="conocido" value="radio" checked> Radio
+            </p>
+            <select name="preferencias" multiple size="4">
+            <option value="correo_si">Enviar siempre correo</option>
+            <option value="correo_no">Nunca enviar correo</option>
+            <option value="enviar_contacto">Solo para contactos directos</option>
+            <option value="otro">Otro</option>
+        </select>
+        </section>
+        <p><input type="submit" value="Enviar"></p>
+        
+    </form>
+        
+
+    <script>
+    document.getElementById("apellidos").value="Alvarez";
+    </script>
+</body>
+</html>
