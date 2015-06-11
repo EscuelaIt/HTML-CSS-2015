@@ -1,0 +1,73 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body,
+header,
+main,
+aside,
+footer,
+h1,
+h3,
+p {
+    margin: 0;
+}
+
+.wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: lightblue;
+    padding: 10px 20px;
+}
+
+h1::before {
+    content: "<";
+    color: lightslategray;
+}
+
+h1::after {
+    content: ">";
+    color: lightslategray;
+}
+
+main {
+    background-color: lightcoral;
+    padding: 10px 20px;
+    width: 80%;
+    float: left;
+
+}
+
+aside {
+    padding: 10px 20px;
+    width: 20%;
+    float: left;
+    background-color: lawngreen;
+}
+
+footer {
+    background-color: lightsalmon;
+    padding: 10px 20px;
+    clear: both;
+}
+
+
+
+/*
+.clearfix::before,
+.clearfix::after {
+  content: "";
+  display: block;
+  height: 0;
+  overflow: hidden;
+}
+
+.clearfix::after {
+    clear: both;
+}
+*/
