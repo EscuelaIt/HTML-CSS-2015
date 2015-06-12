@@ -46,3 +46,5 @@ Recursos del módule de CSS
 * [MDN](https://developer.mozilla.org/es/docs/Web/CSS/position)
 * [Desarrolloweb](http://www.desarrolloweb.com/articulos/atributo-position-css.html)
 * [learnlayout (Gracias Pascual)](http://es.learnlayout.com/position.html)
+
+###Buenas prácticas
