@@ -16,47 +16,49 @@ p {
 }
 
 .wrapper {
-    max-width: 900px;
     margin: 0 auto;
+    max-width: 900px;
 }
 
 header {
-    background-color: lightblue;
     padding: 10px 20px;
+    background-color: lightblue;
 }
 
 h1::before {
-    content: "<";
     color: lightslategray;
+    content: "<";
 }
 
 h1::after {
-    content: ">";
     color: lightslategray;
+    content: ">";
 }
 
 main {
-    background-color: lightcoral;
+    float: left;
     padding: 10px 20px;
     width: 80%;
-    float: left;
-
+    background-color: lightcoral;
 }
 
 aside {
+    float: left;
     padding: 10px 20px;
     width: 20%;
-    float: left;
     background-color: lawngreen;
+    color: aquamarine;
+    font-size: 2em;
 }
 
 footer {
-    background-color: lightsalmon;
-    padding: 10px 20px;
     clear: both;
+    padding: 10px 20px;
+    background-color: lightsalmon;
 }
 
-
+.boton-grande-informativo {}
+.botonGrandeInformativo {}
 
 /*
 .clearfix::before,
