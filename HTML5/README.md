@@ -1,6 +1,13 @@
 ## HTML5
 Recursos del módule de HTML5
 
+### Formularios
+Recursos de la clase de formularios.
+
+* [HTML5 Pattern](http://html5pattern.com/)
+* [Ejemplo de Patrones de Wakkos](http://codepen.io/Wakkos/pen/wpDek)
+* [Expresiones Regulares](https://igochan.wordpress.com/2013/03/27/expresiones-regulares-utiles/)
+
 
 ### Formatos Enriquecidos
 Presentación y recursos comentados en la clase.
