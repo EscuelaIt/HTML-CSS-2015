@@ -22,15 +22,15 @@ Para hacer funcionar la presentación se debe incluir el submódulo de reveal.js
 
 Si no tienes clonado el repo, añade `--recursive` para que se baje los submódulos también:
 
-´´´shell
+``` shell
 git clone --recursive https://github.com/EscuelaIt/HTML-CSS-2015.git
-´´´
+```
 
 En caso de ya tener clonado el repo, ejecuta los siguientes scripts para bajarse los submódulos:
 
-´´´shell
+```shell
 git submodule init
 git submodule update
-´´´
+```
 
 
