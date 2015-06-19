@@ -15,8 +15,9 @@ Presentación y recursos comentados en la clase.
 
 ### Compatibilidad con navegadores
 
-* [Presentación HTML](https://escuelait.github.io//HTML-CSS-2015/HTML5/compatibilidad/index.html)
-* [Presentación pdf](https://escuelait.github.io//HTML-CSS-2015/HTML5/compatibilidad/Compatibilidad_HTML5-JorgeCasar.pdf)
+* [Presentación HTML](https://escuelait.github.io/HTML-CSS-2015/HTML5/compatibilidad/index.html)
+* [Presentación pdf](https://escuelait.github.io/HTML-CSS-2015/HTML5/compatibilidad/Compatibilidad_HTML5-JorgeCasar.pdf)
+* [Ejemplo](https://escuelait.github.io/HTML-CSS-2015/HTML5/compatibilidad/ejemplo/)
 
 Para hacer funcionar la presentación se debe incluir el submódulo de reveal.js.
 
