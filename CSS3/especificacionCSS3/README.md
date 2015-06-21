@@ -1,6 +1,6 @@
 ## La especificación CSS3
 Recursos de la especificación propiedad a propiedad
-* [Slides](http://apislidus.appspot.com/D31d#/)
+* [Slides para seguir la clase](http://apislidus.appspot.com/D31d#/)
 
 ###Border-radius
 * [W3C](http://www.w3.org/TR/css3-background/#the-border-radius)
@@ -45,7 +45,7 @@ Recursos de la especificación propiedad a propiedad
 * [Color picker](http://color.hailpixel.com/)
 
 ###Column-count
-* [W3C](http://www.w3.org/TR/2011/CR-css3)multicol-20110412/#the-multi-column-model 
+* [W3C](http://www.w3.org/TR/2011/CR-css3multicol-20110412/#the-multi-column-model) 
 * [Css Tricks](http://css-tricks.com/almanac/properties/c/columns/) 
 * [Recurso de layout pinterest usando column-count](http://w3bits.com/labs/css-masonry/)
 
