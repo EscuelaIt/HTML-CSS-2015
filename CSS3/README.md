@@ -1,10 +1,10 @@
 ## CSS3
-Recursos del módule de CSS3
+Recursos del módulo de CSS3
 
 ###Introducción W3C CSS3
 * [W3C current work](http://www.w3.org/Style/CSS/current-work)
 
-Las clases sobre CSS3 se componen de las siguientes secciones:
+###Las clases sobre CSS3 se componen de las siguientes secciones:
 
 * [Especificación CSS3](https://github.com/EscuelaIt/HTML-CSS-2015/tree/master/CSS3/especificacionCSS3)
 * [Pseudo Elementos y pseudo selectores CSS3](https://github.com/EscuelaIt/HTML-CSS-2015/tree/master/CSS3/pseudoElementos-pseudoSelectoresCSS3)
