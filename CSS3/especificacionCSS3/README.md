@@ -69,6 +69,9 @@ Recursos de la especificación propiedad a propiedad
 * [Understanding css filter efects](http://www.html5rocks.com/en/tutorials/filters/understanding-css/)
 * [CSS filter playground](http://bennettfeely.com/filters/)
 
+###Operaciones: Calc()
+* [W3C](http://www.w3.org/TR/css3-values/#calc-notation)
+
 ###Cross browser
 * [can I use](http://caniuse.com)
 * [Slides sobre cross browser](https://goo.gl/3sk9Vz)
