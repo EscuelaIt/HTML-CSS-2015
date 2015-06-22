@@ -61,7 +61,6 @@ Recursos de la especificación propiedad a propiedad
 * [W3C](http://www.w3.org/TR/css3-ui/#resizing-amp-overflow)
 
 ###Box-reflect
-* [Box-reflect](http://css-infos.net/property/-webkit-box-reflect)
 * [Tutorial de box-reflect](http://www.xhtml-lab.com/css/create-reflection-effect-using-css3)
 
 ###filter
@@ -70,4 +69,7 @@ Recursos de la especificación propiedad a propiedad
 * [Understanding css filter efects](http://www.html5rocks.com/en/tutorials/filters/understanding-css/)
 * [CSS filter playground](http://bennettfeely.com/filters/)
 
+###Cross browser
+* [can I use](http://caniuse.com)
+* [Slides sobre cross browser](https://goo.gl/3sk9Vz)
 
