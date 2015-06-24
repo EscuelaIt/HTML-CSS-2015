@@ -1,6 +1,9 @@
 ## Pseudo elementos & pseudo selectores CSS3
 Recursos de la especificaciones de pseudo elementos y pseudoclases
 
+###Slides Presentación
+* [Speakerdeck](https://speakerdeck.com/silocreativo/pseudo-elementos-y-pseudo-clases-en-css)
+
 ###Pseudo Clases para enlaces
 * [Ejemplo Codepen](http://codepen.io/ricardpriet/pen/pJdbEZ)
 
