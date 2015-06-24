@@ -44,5 +44,7 @@ Mejoras en la maquetación con CSS3
 * [Generador flexbox](http://the-echoplex.net/flexyboxes/)
 * [Flexplorer](http://bennettfeely.com/flexplorer/)
 
+###Maquetación de emails. Responsive Email Design
+* [Slides para seguir la clase](https://drive.google.com/file/d/0B8ELniJ8ecbLVEpoTVBxcjN1UUE/view?usp=sharing)
 
 
