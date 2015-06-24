@@ -4,11 +4,11 @@ Mejoras en la maquetación con CSS3
 
 ###Responsive Web Design
 * [Slides para seguir la clase](http://apislidus.appspot.com/n31#/)
+* [W3C](http://www.w3.org/TR/css3-mediaqueries/#media0 )
 * [El recurso de los recursos](http://bradfrost.github.io/this-is-responsive/index.html )
 * [Tamaños](http://screensiz.es/phone )
 * [Fragmentación android](http://opensignal.com/reports/fragmentation-2013/ )
 * [Para encabezados](http://fittextjs.com/ )
-* [La especificación W3C](media-queries http://www.w3.org/TR/css3-mediaqueries/#media0 )
 * [Media queries en CSS Trics](http://css-tricks.com/css-media-queries/ )
 * [Adaptive images](http://adaptive-images.com/ )
 * [Srcset atribute](http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/ )
