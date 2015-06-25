@@ -12,7 +12,7 @@ Mejoras en la maquetación con CSS3
 * [Media queries en CSS Trics](http://css-tricks.com/css-media-queries/ )
 * [Adaptive images](http://adaptive-images.com/ )
 * [Srcset atribute](http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/ )
-* [WebKit Has Implemented srcset, And It’s A Good Thing](http://mobile.smashingmagazine.com/2013/08/21/webkit-implements-srcset-and-why-its-a-good-thing/) 
+* [Responsive images done right: picture & srcset](http://www.smashingmagazine.com/2014/05/14/responsive-images-done-right-guide-picture-srcset/) 
 * [Crear iconos mediante SVG](http://iconizr.com/ )
 * [La librería definitiva de iconos](http://icomoon.io/ )
 * [Elastic videos](http://webdesignerwall.com/tutorials/css-elastic-videos )
