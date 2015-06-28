@@ -4,7 +4,7 @@
 
 **Tutoriales**
 
-* [Git Man](http://git-scm.com/book/es/v1/Empezando)
+* [Manual de Git](http://git-scm.com/book/es/v1/Empezando)
 
 **Aplicaciones**
 * [GitHub Mac](https://mac.github.com/)
