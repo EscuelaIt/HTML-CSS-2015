@@ -41,4 +41,7 @@ git submodule init
 git submodule update
 ```
 
+### HTML5 Boilerplate
 
+* [HTML5 Boilerplate](https://html5boilerplate.com/)
+* [HTML5 Boilerplate Mobile](https://html5boilerplate.com/mobile/)
