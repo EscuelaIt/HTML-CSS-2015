@@ -52,4 +52,3 @@ Recursos del módule de CSS
 * [BEM](https://en.bem.info/)
 * [CSS idiomático](https://github.com/necolas/idiomatic-css/tree/master/translations/es-ES)
 * [CSS Stats](http://cssstats.com/)
-* [Browser Rendering](http://slides.com/joanleon/buenas-practicas-javascript#/2/6)
